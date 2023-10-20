@@ -230,5 +230,5 @@ void config_TIMER1(void)
 ```
 # ˗ˏˋDiagrama de flujo´ˎ˗
 
-![Diagrama de Flujo](Diagrama tp5.drawio.png"Diagrama")
+![Diagrama de Flujo](Diagrama_tp5.drawio.png"Diagrama")
 
