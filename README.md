@@ -29,7 +29,7 @@
 ```c
 void config_outint(void);
 void config_outint(void){
-     DDRC &= ~(1 << PC5); // aca configuro como entrada
+  DDRC &= ~(1 << PC5); // aca configuro como entrada
   PORTC |= (1 << PC5); // aca prendo el pull up
   DDRC &= ~(1 << PC4); // aca configuro como entrada
   PORTC |= (1 << PC4); // aca prendo el pull up
