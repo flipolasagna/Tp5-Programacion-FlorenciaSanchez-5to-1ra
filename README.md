@@ -360,7 +360,7 @@ int main()
 
 
 ###### ↳ Asignacion del timer
-c´´´
+```c
 ISR(TIMER0_COMPA_vect)
 {
     if (Time1seg != 0)
